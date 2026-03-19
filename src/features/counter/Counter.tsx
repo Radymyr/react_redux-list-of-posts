@@ -1,3 +1,4 @@
+/* eslint-disable import/extensions */
 import React, { useState } from 'react';
 
 import styles from './Counter.module.css';
